@@ -1,0 +1,23 @@
+<concesionario_javi>
+	<ubicación>Calle de los romos,3</ubicación>
+	<flota_disponible>
+		<coche>
+			<modelo>Golf 1.9 gti</modelo>
+			<marca>Volkswagen</marca>
+			<kilometros>9</kilometros>
+			<tipo>hatchback</tipo>
+		</coche>
+		<coche>
+			<modelo>Q5 Quattro</modelo>
+			<marca>Audi</marca>
+			<kilometros>20.000</kilometros>
+			<tipo>SUV</tipo>
+		</coche>
+	</flota_disponible>
+	<servicios>
+		<servicio>
+			<nombre>Limpieza del coche</nombre>
+			<precio>50$</precio>
+		</servicio>
+	</servicios>
+</concesionario_javi>

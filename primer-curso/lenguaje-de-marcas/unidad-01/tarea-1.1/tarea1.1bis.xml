@@ -1,0 +1,30 @@
+<peluqueria_manolo_style>
+	<ubicación>Avenida San ginés de la romeria, 98, bajo b.</ubicación>
+	<horario>Lunes a Viernes de 10 a 20</horario>
+	<servicios>
+		<servicio>
+			<descripcion_servicio>Corte Salon 30 min</descripcion_servicio>
+			<precio_servicio>8$</precio_servicio>
+			<peluquero>Manolo</peluquero>
+		</servicio>
+		<servicio>
+			<descripcion_servicio>Tinte de pelo mas corte</descripcion_servicio>
+			<precio_servicio>30$</precio_servicio>
+			<peluquero>Yeremi Buendia</peluquero>
+		</servicio>
+	</servicios>
+	<productos>
+		<producto>
+			<nombre_producto>Cera mate - Peinado de playa</nombre_producto>
+			<marca>b2b</marca>
+			<precio_producto>10$</precio_producto>
+			<stock>10</stock>
+		</producto>
+		<producto>
+			<nombre_producto>Polvos texturizadores - 9g</nombre_producto>
+			<marca>b2b</marca>
+			<precio_producto>6$</precio_producto>
+			<stock>0</stock>
+		</producto>
+	</productos>
+</peluqueria_manolo_style> 
