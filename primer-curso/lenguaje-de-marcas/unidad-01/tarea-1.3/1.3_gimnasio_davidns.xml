@@ -1,0 +1,112 @@
+<registro_entrenamiento>
+    <entrenamientos>
+        <entrenamiento>
+            <id_entreno>1</id_entreno>
+            <nombre_entreno>Entrenamiento funcional</nombre_entreno>
+            <duracion_entreno>45 minutos</duracion_entreno>
+            <descripcion_entreno>Entrenamiento funcional para reforzar la salud y fuerza de nuestros atletas o socios, reforzamos los musculos principales del cuerpo previniendo lesiones y aumentando la calidad de vida de los que confian en nosotros.</descripcion_entreno>
+            <ejercicios>
+                <ejercicio>
+                    <nombre_ejercicio>Dominadas lastradas</nombre_ejercicio>
+                    <repeticiones_ejercicio>6 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>30 segundos</duracion_ejercicio>
+                    <descanso_ejercicio>2 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Zancada a una pierna</nombre_ejercicio>
+                    <repeticiones_ejercicio>12 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1.30 minutos</duracion_ejercicio>
+                    <descanso_ejercicio>1.30 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Flexiones manos en diamante</nombre_ejercicio>
+                    <repeticiones_ejercicio>15 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>45 segundos</duracion_ejercicio>
+                    <descanso_ejercicio>2.30 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Crunch abominal en banco</nombre_ejercicio>
+                    <repeticiones_ejercicio>20 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1 minuto</duracion_ejercicio>
+                    <descanso_ejercicio>1 minuto</descanso_ejercicio>
+                </ejercicio>
+            </ejercicios>
+        </entrenamiento>
+        <entrenamiento>
+            <id_entreno>2</id_entreno>
+            <nombre_entreno>Rutina Pecho - Biceps</nombre_entreno>
+            <duracion_entreno>1.30h</duracion_entreno>
+            <descripcion_entreno>Rutina de media duracion enfocada a trabajar las diferentes secciones del pectoral y las cabezas del biceps, repartido en 3 ejercicios de pectoral y 2 de biceps para convertirnos en culturistas. </descripcion_entreno>
+            <ejercicios>
+                <ejercicio>
+                    <nombre_ejercicio>Press inclinado multipower</nombre_ejercicio>
+                    <repeticiones_ejercicio>6-8 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>45 segundos</duracion_ejercicio>
+                    <descanso_ejercicio>2.30 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Press plano con mancuernas</nombre_ejercicio>
+                    <repeticiones_ejercicio>10-12 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1 minuto</duracion_ejercicio>
+                    <descanso_ejercicio>2 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Cruces en polea alta</nombre_ejercicio>
+                    <repeticiones_ejercicio>12-15 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>45 segundos</duracion_ejercicio>
+                    <descanso_ejercicio>1.30 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Curl predicador</nombre_ejercicio>
+                    <repeticiones_ejercicio>10-12 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1 minuto</duracion_ejercicio>
+                    <descanso_ejercicio>2 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Curl martillo</nombre_ejercicio>
+                    <repeticiones_ejercicio>8 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1 minuto</duracion_ejercicio>
+                    <descanso_ejercicio>1 minuto</descanso_ejercicio>
+                </ejercicio>
+            </ejercicios>
+        </entrenamiento>
+           <entrenamiento>
+            <id_entreno>3</id_entreno>
+            <nombre_entreno>Rutina Espalda - Triceps</nombre_entreno>
+            <duracion_entreno>1.15h</duracion_entreno>
+            <descripcion_entreno>Rutina estructurada para espalda y triceps, enfocada en trabajar los dorsales, espalda alta y las cabezaas del triceps, con esta rutina podras salir a volar con los dorsales.</descripcion_entreno>
+            <ejercicios>
+                <ejercicio>
+                    <nombre_ejercicio>Peso muerto</nombre_ejercicio>
+                    <repeticiones_ejercicio>6-8 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1.15 minutos</duracion_ejercicio>
+                    <descanso_ejercicio>3 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Remo horizontal con barra</nombre_ejercicio>
+                    <repeticiones_ejercicio>10-12 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1 minuto</duracion_ejercicio>
+                    <descanso_ejercicio>2 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Jalon al pecho agarre neutro</nombre_ejercicio>
+                    <repeticiones_ejercicio>12-15 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>45 segundos</duracion_ejercicio>
+                    <descanso_ejercicio>1.30 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Tirón barra recta</nombre_ejercicio>
+                    <repeticiones_ejercicio>10-12 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1 minuto</duracion_ejercicio>
+                    <descanso_ejercicio>1.15 minutos</descanso_ejercicio>
+                </ejercicio>
+                <ejercicio>
+                    <nombre_ejercicio>Curl trasnuca agarre triangulo</nombre_ejercicio>
+                    <repeticiones_ejercicio>8 repeticiones</repeticiones_ejercicio>
+                    <duracion_ejercicio>1 minuto</duracion_ejercicio>
+                    <descanso_ejercicio>1 minuto</descanso_ejercicio>
+                </ejercicio>
+            </ejercicios>
+        </entrenamiento>
+    </entrenamientos>
+</registro_entrenamiento>

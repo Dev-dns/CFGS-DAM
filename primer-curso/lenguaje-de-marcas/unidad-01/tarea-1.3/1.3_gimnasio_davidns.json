@@ -1,0 +1,114 @@
+{
+  "registroEntrenamiento": {
+    "entrenamientos": [
+     {
+        "idEntreno": "1",
+        "nombreEntreno": "Entrenamiento Funcional",
+        "duracionEntreno": "45 minutos",
+        "descripcionEntreno": "Entrenamiento funcional para reforzar la salud y fuerza de nuestros atletas o socios, reforzamos los músculos principales del cuerpo previniendo lesiones y aumentando la calidad de vida de los que confían en nosotros.",
+        "ejercicios": [
+          {
+            "nombreEjercicio": "Dominadas Lastradas",
+            "repeticionesEjercicio": "6 repeticiones",
+            "duracionEjercicio": "30 segundos",
+            "descansoEjercicio": "3 minutos"
+          },
+          {
+            "nombreEjercicio": "Zancadas a una pierna",
+            "repeticionesEjercicio": "12 repeticiones",
+            "duracionEjercicio": "1.30 minutos",
+            "descansoEjercicio": "1.30 minutos"
+          },
+          {
+            "nombreEjercicio": "Flexiones manos en diamante",
+            "repeticionesEjercicio": "15 repeticiones",
+            "duracionEjercicio": "45 segundos",
+            "descansoEjercicio": "2.30 minutos"
+          },
+          {
+            "nombreEjercicio": "Crunch abdominal en banco",
+            "repeticionesEjercicio": "20 repeticiones",
+            "duracionEjercicio": "1 minuto",
+            "descansoEjercicio": "1 minuto"
+          }
+        ]
+      },
+      {
+        "idEntreno": "2",
+        "nombreEntreno": "Rutina Pecho - Bíceps",
+        "duracionEntreno": "1.30h",
+        "descripcionEntreno": "Rutina de media duración enfocada a trabajar las diferentes secciones del pectoral y las cabezas del bíceps, repartido en 3 ejercicios de pectoral y 2 de bíceps para convertirnos en culturistas.",
+        "ejercicios": [
+          {
+            "nombreEjercicio": "Press inclinado multipower",
+            "repeticionesEjercicio": "6-8 repeticiones",
+            "duracionEjercicio": "45 segundos",
+            "descansoEjercicio": "2.30 minutos"
+          },
+          {
+            "nombreEjercicio": "Press plano con mancuernas",
+            "repeticionesEjercicio": "10-12 repeticiones",
+            "duracionEjercicio": "1 minuto",
+            "descansoEjercicio": "2 minutos"
+          },
+          {
+            "nombreEjercicio": "Cruces en polea alta",
+            "repeticionesEjercicio": "12-15 repeticiones",
+            "duracionEjercicio": "45 segundos",
+            "descansoEjercicio": "1.30 minutos"
+          },
+          {
+            "nombreEjercicio": "Curl predicador",
+            "repeticionesEjercicio": "10-12 repeticiones",
+            "duracionEjercicio": "1 minuto",
+            "descansoEjercicio": "2 minutos"
+          },
+          {
+            "nombreEjercicio": "Curl martillo",
+            "repeticionesEjercicio": "8 repeticiones",
+            "duracionEjercicio": "1 minuto",
+            "descansoEjercicio": "1 minuto"
+          }
+        ]
+      },
+      {
+        "idEntreno": "3",
+        "nombreEntreno": "Rutina Espalda - Triceps",
+        "duracionEntreno": "1.15h",
+        "descripcionEntreno": "Rutina estructurada para espalda y triceps, enfocada en trabajar los dorsales, espalda alta y las cabezaas del triceps, con esta rutina podras salir a volar con los dorsales.",
+        "ejercicios": [
+          {
+            "nombreEjercicio": "Peso muerto",
+            "repeticionesEjercicio": "6-8 repeticiones",
+            "duracionEjercicio": "1.15 minutos",
+            "descansoEjercicio": "3 minutos"
+          },
+          {
+            "nombreEjercicio": "Remo horizontal con barra",
+            "repeticionesEjercicio": "10-12 repeticiones",
+            "duracionEjercicio": "1 minuto",
+            "descansoEjercicio": "2 minutos"
+          },
+          {
+            "nombreEjercicio": "Jalon al pecho agarre neutro",
+            "repeticionesEjercicio": "12-15 repeticiones",
+            "duracionEjercicio": "45 segundos",
+            "descansoEjercicio": "1.30 minutos"
+          },
+          {
+            "nombreEjercicio": "Tirón barra recta",
+            "repeticionesEjercicio": "10-12 repeticiones",
+            "duracionEjercicio": "1 minuto",
+            "descansoEjercicio": "1.15 minutos"
+          },
+          {
+            "nombreEjercicio": "Curl trasnuca agarre triangulo",
+            "repeticionesEjercicio": "8 repeticiones",
+            "duracionEjercicio": "1 minuto",
+            "descansoEjercicio": "1 minuto"
+          }
+        ]
+      }
+    ]
+  }
+}
