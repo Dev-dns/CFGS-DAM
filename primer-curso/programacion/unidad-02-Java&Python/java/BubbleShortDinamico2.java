@@ -1,7 +1,11 @@
 import java.util.Scanner;
-public class BubbleShortDinamico{
+public class BubbleShortDinamico2{
 	public static void main(String[] args){
 		Scanner teclado = new Scanner(System.in);
+
+		int repetir;
+
+		do{
 
 		//Declaramos el array de enteros con tamaño 10 (0-9)
 		int[] numeros = new int[10];
@@ -41,6 +45,10 @@ public class BubbleShortDinamico{
 				System.out.print(+ numeros[i] + " ");
 		}
 
+		System.out.print("\nQuieres repetir el programa\n1 - Si\n2 - No\n: ");
+		repetir = teclado.nextInt();
+
+	}while(repetir== 1);
 
 
 
