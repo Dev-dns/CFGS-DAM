@@ -2,40 +2,33 @@ import java.util.Scanner;
 
 public class Factorial{
 	public static void main(String[] args){
-	
+
 		Scanner teclado = new Scanner(System.in);
-	
-		System.out.print("CALCULADOR DE FACTORIAL\n----------\nInserte un numero entero positivo para calcular su factorial | Para finalizar inserte -33\n----------\n");
-		int factorial;
-		int num = 0;
+		int num;
+		int factoria;
+			do{
+				System.out.print("Introduzca un numero para calcular su Factorial: ");
+				num = teclado.nextInt();
 
-
-		while(0 != 1){
-				System.out.print("Inserte el numero entero positivo: ");
-			num = teclado.nextInt();
-			if(num == -33){
-				System.out.println("Programa finalizado");
-				System.exit(0);
-			}
-			if(num < 0){
-				System.out.println("El numero debe ser positivo o 0");
-				continue;
-			}
-			if(num == 0){
-				System.out.println("El factorial es: 1");
-			}
-			factorial = num;
-			for(int i = num-1; i > 0; i--){
-				if(i == 0){
-					break;
+				if(num < 0){
+					System.out.print("ERROR: el numero no puede ser negativo");
 				}
-				factorial *= i;
+			}while(num < 0);
 
+			if (num == 0 || num ==1){
+				System.out.print(num + "! = 1");
+			}else{
+				factoria = 1;
+				System.out.print(num+"! = ");
+				for(int i = 1; i <= num;i++){
+					factoria *= i;
+					System.out.print(i);
+					if (i < num){
+						System.out.print(" x ");
+					}
+				}
+				System.out.print(" = "+factoria+"\n");
 			}
-			System.out.println("El factorial es: " + factorial);
-
-		}
-		
 
 	}
-}
+} 
