@@ -22,6 +22,9 @@ public class Funciones6{
 		return num;
 	}
 	public static String calcularDivision(double num1,double num2){
+		if (num2 == 0){
+			return "La division entre 0 no esta definida";
+		}
 		String texto = num1 +" / "+num2 +" = "+ (num1/num2);
 		return texto;
 
