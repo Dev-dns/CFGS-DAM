@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Formulario 2.7</title>
+  </head>
+  <body>
+    <header>
+      <h1>Solicitud de información de ciclos formativos</h1>
+    </header>
+    <main>
+      <form id="sol">
+        <fieldset>
+          <legend>Completar este formulario</legend>
+          <label for="col">Seleccione su color favorito: </label>
+          <input type="color" name="col"><br><br>
+
+          <label for="leng">Seleccione su lenguaje favorito: </label>
+          <select name="leng">
+            <option>Java</option>
+            <option>Python</option>
+            <option>HTML</option>
+            <option>Visual Basic</option>
+          </select><br><br>
+
+          <label for="color">Marque los ciclos en los que esta interesado: </label>
+          <input type="checkbox" value="ASIR" name="ASIR">
+          <label for="ASIR">ASIR</label>
+          <input type="checkbox" value="DAM" name="DAM">
+          <label for="DAM">DAM</label>
+          <input type="checkbox" value="DAW" name="DAW">
+          <label for="DAW">DAW</label>
+          <br><br>
+
+          <label for="text">Información adicional</label><br>
+          <textarea id="text" name="text" placeholder="Por favor, escriba aqui" rows="5" cols="50"></textarea>
+          <br><br>
+        </fieldset>
+
+        <fieldset>
+          <legend>Rellene las opciones siguientes</legend>
+
+          <label for="fechacom">Seleccione fecha de comienzo: </label>
+          <input type="date" name="fechacom">
+          <br><br>
+
+          <label for="fechacom">Adjunte su CV: </label>
+          <input type="file" name="file">
+          <br><br>
+
+          <label for="fechacom">Seleccione su ciclo prioritario: </label><br>
+          <select name="prior" size="4">
+            <option value="smir">SMIR</option>
+            <option value="asir">ASIR</option>
+            <option value="dam">DAM</option>
+            <option value="daw">DAW</option>
+          </select>
+
+
+        </fieldset>
+        <input type="submit">
+        <input type="reset">
+      </form>
+    </main>
+    <footer></footer>
+  </body>
+</html>
